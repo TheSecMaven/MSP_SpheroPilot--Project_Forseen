@@ -1,4 +1,4 @@
-# MSP-Sphero-Pilot--Project_Forseen
+# MSP_SpheroPilot--Project_Forseen
 Project Forseen utilizes the technology of Sphero to work through a maze. The Sphero will then return directions through the maze in colors.
 Hackster.io Link to Project Forseen: https://www.hackster.io/MK_Bama/project-forseen-msp-sphero-pilot-program-de827c?ref=user&ref_id=62957&offset=0
 
